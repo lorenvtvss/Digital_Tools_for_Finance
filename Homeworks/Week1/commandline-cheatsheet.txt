@@ -1,0 +1,13 @@
+echo "" > commandline-cheatsheet.txt
+mkdir temp/
+cd temp/
+echo "hello world" > hello.txt
+ls ..
+ps
+kill -9 666
+echo $PATH > path.txt
+ls .. | grep hello.txt
+cd '/mnt/c/Users/Lorena Tassone' && find . -type f -regex '.*\.png' -ls
+whereis echo
+man ps | grep 'Select all processes'
+history 20 > commands.txt

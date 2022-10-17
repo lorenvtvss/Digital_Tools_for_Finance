@@ -1,0 +1,13 @@
+Cron Job
+=====================================
+(Supposing cron is installed)
+1. Providing permission:
+ 	- Two files controlling the permissions for crontab: /etc/cron.allow and /etc/cron.deny. 
+ 	- If there is a cron.allow file, then the user that needs to use cron will need to be listed in the file.
+	- If file doesn't exist, create a file named cron.allow in the /etc/ folder. Add the user name to this file in order to allow the user to run jobs.
+2. Creating cron job
+ 	- $crontab -e
+ 	  --> opens nano window with all cron jobs to be edited
+ 	- enter the following job:
+ 	  0 17 */2 * * /mnt/c/Users/Lorena Tassone/Desktop/UZH/Master/HS 22/Digital Tools for Finance/Homework/Week1/runner1.sh “hello”
+
