@@ -8,7 +8,6 @@ import matplotlib.dates as mdates
 
 data = pd.read_csv("./data/coding-environment-exercise.csv", index_col=0, header=0)
 
-#plotting data
 
 def main():
     x = data.index
