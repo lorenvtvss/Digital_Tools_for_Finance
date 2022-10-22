@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 THIS IS FINE
 >>>>>>> parent of 072f4dd... a good change
+=======
+THIS IS FINE
+>>>>>>> parent of 12273d8 (Revert "a fine change")
