@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+THIS IS FINE
+>>>>>>> parent of 072f4dd... a good change
