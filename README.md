@@ -1,12 +1,12 @@
 # Digital Tools for Finance - Project
 
-**Research Topic:**
+**Research Topic:**<br />
 What is the effect of the U.S. GDP growth rate on different S&P500 sector indices' market capitalizations
 
-**Methods:**
+**Methods:**<br />
 We regress the S&P500 sector indices' market capitalizations on the U.S. GDP growth rate instrumenting for other macroeconomic factors. The programming language used will be Python.
 
-**Data:**
+**Data:**<br />
 Monthly data is used for a time span of 30 years. Data is taken from Bloomberg or Datastream.
 
 
@@ -14,5 +14,5 @@ Monthly data is used for a time span of 30 years. Data is taken from Bloomberg o
 **Group Members**
 
 Jonas Neller, <br />
-Lorena Tassone, 18-700-237
-Naomi Huser,
+Lorena Tassone, 18-700-237 <br />
+Naomi Huser, <br />
