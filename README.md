@@ -1,7 +1,6 @@
 # Digital Tools for Finance - Project
 
 **Research Topic:**
-
 What is the effect of the U.S. GDP growth rate on different S&P500 sector indices' market capitalizations
 
 **Methods:**
