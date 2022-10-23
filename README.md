@@ -14,4 +14,4 @@ Monthly data is used for a time span of 30 years. Data is taken from Bloomberg o
 **Group Members**<br />
 Jonas Neller, 21-730-676 <br />
 Lorena Tassone, 18-700-237 <br />
-Naomi Huser, <br />
+Naomi Huser, 17-056-201 <br />
