@@ -1,6 +1,6 @@
 # Digital Tools for Finance - Project
 
-The repository is structured as follows:
+The repository is structured as follows:<br />
 The "main" branch is used for the final resarch project mentioned below. Additionally, there is a branch "homework" where the weekly homework is stored. The branch "feature-1" was created for the git collab exercises.
 
 **Research Topic:**<br />
