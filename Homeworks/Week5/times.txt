@@ -1,6 +1,0 @@
-CPU times: total: 250 ms
-Wall time: 247 ms
-CPU times: total: 93.8 ms
-Wall time: 95.2 ms
-CPU times: total: 344 ms
-Wall time: 359 ms
