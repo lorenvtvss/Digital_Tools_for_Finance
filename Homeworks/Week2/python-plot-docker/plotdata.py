@@ -1,9 +1,5 @@
 import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-from datetime import date
-from datetime import datetime
-import matplotlib.dates as mdates
 
 
 data = pd.read_csv("./data/coding-environment-exercise.csv", index_col=0, header=0)
