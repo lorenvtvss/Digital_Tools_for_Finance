@@ -1,7 +1,7 @@
 # Digital Tools for Finance - Project
 
 The repository is structured as follows:<br />
-The "main" branch is used for the final resarch project mentioned below. Additionally, there is a branch "midterm" where the weekly homework is stored. The branch "feature-1" was created for the git collab exercises.
+The "main" branch is used for the final resarch project mentioned below. Additionally, there is a branch "midterm" where the weekly homeworks are stored. The branch "feature-1" was created for the git collab exercises.
 
 **Research Topic:**<br />
 What is the effect of the U.S. GDP growth rate on different S&P500 sector indices' market capitalizations
