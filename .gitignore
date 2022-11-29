@@ -97,7 +97,7 @@ bin/
 # exclude data from source control by default
 /data/external
 /data/interim
-/data/processed
+#/data/processed
 /data/raw
 
 # exclude external models from source control
