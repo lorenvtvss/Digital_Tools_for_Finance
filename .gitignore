@@ -96,7 +96,7 @@ bin/
 
 # exclude data from source control by default
 /data/external
-/data/interim
+#/data/interim
 #/data/processed
 /data/raw
 
