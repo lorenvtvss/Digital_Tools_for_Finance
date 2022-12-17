@@ -15,6 +15,8 @@ Monthly data is used for a time span of 30 years. Data is taken from Bloomberg o
 ### Project Organization: 
     .
     ├── README.md
+    ├── Dockerfile
+    ├── requirements.txt
     ├── data
     │   ├── interim
     │   ├── processed
@@ -25,7 +27,6 @@ Monthly data is used for a time span of 30 years. Data is taken from Bloomberg o
         └── figures
 
 
-<br /><br />
 
 ### Group Members
 Jonas Neller, 21-730-676 <br />
