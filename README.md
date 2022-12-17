@@ -12,9 +12,22 @@ We regress the S&P500 sector indices' market capitalizations on the U.S. GDP gro
 **Data:**<br />
 Monthly data is used for a time span of 30 years. Data is taken from Bloomberg or Datastream.
 
+### Project Organization: 
+    .
+    ├── README.md
+    ├── data
+    │   ├── interim
+    │   ├── processed
+    │   └── raw (ignored)
+    ├── docs
+    ├── notebooks
+    ├── reports
+        └── figures
+
+
 <br /><br />
 
-**Group Members**<br />
+### Group Members
 Jonas Neller, 21-730-676 <br />
 Lorena Tassone, 18-700-237 <br />
 Naomi Huser, 17-056-201 <br />
