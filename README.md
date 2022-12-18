@@ -32,7 +32,7 @@ To run the server application, the last code snippet containing the command "!vo
     ├── data
     │   ├── interim
     │   ├── processed
-    │   └── raw (ignored)
+    │   └── raw 
     ├── notebooks
     ├── reports
         └── figures
