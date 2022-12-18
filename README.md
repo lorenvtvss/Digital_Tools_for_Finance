@@ -10,7 +10,7 @@ What is the effect of the U.S. Real GDP on different S&P500 sector indices' mark
 We regress the S&P500 sector indices' average market capitalizations on the U.S. Real GDP, instrumenting for other macroeconomic factors. The programming language used will be Python.
 
 **Data:**<br />
-Quarterly data is used for a time span of 14 years. Data is taken from Bloomberg and FRED.\
+Quarterly data is used for a time span of 14 years. Data is taken from Bloomberg and FRED.
 
 Data can be downloaded via FRED API. For this a personal api key must be requested and stored in an environmental variable called FRED_API_KEY. The code to run for downloading macro data lies in the folder ./data/interim. Before running the code make sure to have the package "fredapi" installed. Otherwise run "conda install fredapi" or "pip install fredapi". \
 Otherwise, one can use the stored data in the ./data/processed folder.
