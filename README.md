@@ -4,19 +4,17 @@ The repository is structured as follows:<br />
 The "main" branch is used for the final resarch project mentioned below. Additionally, there is a branch "midterm" where the weekly homeworks are stored. The branch "feature-1" was created for the git collab exercises.
 
 **Research Topic:**<br />
-What is the effect of the U.S. GDP on different S&P500 sector indices' market capitalizations
+What is the effect of the U.S. Real GDP on different S&P500 sector indices' market capitalizations
 
 **Methods:**<br />
-We regress the S&P500 sector indices' market capitalizations on the U.S. GDP instrumenting for other macroeconomic factors. The programming language used will be Python.
+We regress the S&P500 sector indices' average market capitalizations on the U.S. Real GDP, instrumenting for other macroeconomic factors. The programming language used will be Python.
 
 **Data:**<br />
-Quarterly data is used for a time span of 14 years. Data is taken from Bloomberg.
+Quarterly data is used for a time span of 14 years. Data is taken from Bloomberg and FRED.
 
 ### Project Organization: 
     .
     ├── README.md
-    ├── Dockerfile
-    ├── requirements.txt
     ├── data
     │   ├── interim
     │   ├── processed
@@ -27,6 +25,7 @@ Quarterly data is used for a time span of 14 years. Data is taken from Bloomberg
         └── figures
 
 
+<br /><br />
 
 ### Group Members
 Jonas Neller, 21-730-676 <br />
