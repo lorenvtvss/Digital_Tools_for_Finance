@@ -17,7 +17,7 @@ As another option, one can use the stored data in the ./data/processed folder.
 
 
 ### Reproducibility Remarks:
-Unfortunately the creation of a container did not work as planned. Hence the usage of docker is not possible. 
+Unfortunately the creation of a docker container doesn't not work as planned. Hence the usage of the docker image is not possible. 
 
 main.ipnby has to be run from a jupyter notebook.\
 To be able launch the application, the package "voila" must be installed manually, since otherwise docker would have handled this.\
