@@ -17,16 +17,13 @@ As another option, one can use the stored data in the ./data/processed folder.
 
 
 ### Reproducibility Remarks:
-Unfortunately the creation of a docker container doesn't work as planned. Hence the usage of the docker image is not possible. 
-
-main.ipynb has to be run from a jupyter notebook and dependencies have to be installed manually.
-
+Unfortunately the creation of a docker container doesn't work as planned. Hence the usage of the docker image is not possible. \
+main.ipynb has to be run from a jupyter notebook and dependencies have to be installed manually.\
 To be able to launch the application, the package "voila" must be installed manually (otherwise docker would have handled this).\
 Run "pip install voila" or "conda install voila".
 
 There is an interactive plot at the end of the code. Unfortunately, this interactivity only works within the notebook and not in the application.\
-Further, this interactive dropdown menu only works as long as the application is not running.
-
+Further, this interactive dropdown menu only works as long as the application is not running. \
 To run the server application, the last code snippet containing the command "!voila main.ipynb" must be uncommented and run.
 
 ### Project Organization: 
